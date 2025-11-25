@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Conda / venv
+.env
+venv/
+env/
+*.egg-info
+/.mypy_cache
+
+# data, models, outputs
+complete_data/
+newcode2/plots/
+*.pt
+*.pth
+
+# VSCode
+.vscode/
