@@ -15,7 +15,6 @@ env/
 /.mypy_cache
 
 # data, models, outputs
-complete_data/
 newcode2/plots/
 *.pt
 *.pth
